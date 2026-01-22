@@ -27,7 +27,7 @@ A sleek and functional **Todo application** built with **React**, **Hooks**, and
 
 
 1. Clone the repo
-`git clone https://github.com/ananyyavijay/react-todo.git`
+`git clone https://github.com/ananya3012/react-todo.git`
 
 2. Navigate into the project
 
